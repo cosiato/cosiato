@@ -88,7 +88,7 @@ I don't have all the answers, but I'm figuring it out one commit at a time.
 
 - 🇫🇷 Made in the french Alps. Love skiing, trekking and camping.
 - 🌏 Lived extensively in 10 countries accross Asia, Europe and The Americas
-- 🗣️ Speak French, English, Spanish (+ enough to give waitresses a smile in Chinese & Tagalog & Bahasa)
+- 🗣️ Speak French, English, Spanish (+ enough to leave waitresses dumbstruck in Chinese & Tagalog & Bahasa)
 - 🎯 Former gymnast and gymnastics instructor — still value discipline and tenacity
 
 </details>
