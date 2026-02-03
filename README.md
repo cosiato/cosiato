@@ -35,7 +35,7 @@
 - 🕵️ **[SpyClub](https://t.me/Spyclubgame_bot)** — Telegram mini app: real-time multiplayer game with token rewards  
   → 100k+ players · SpyCoin deployed on Hedera Mainnet
 
-- 🏦 **[Ethereum Credit Guild](https://credit-guild.gitbook.io/introduction/)** — Built the frontend for a DeFi lending/borrowing protocol with 2M TVL
+- 🏦 **[Ethereum Credit Guild](https://credit-guild.gitbook.io/introduction/)** — Built the frontend for a DeFi lending/borrowing protocol with 2M TVL  
   → ERC20 leverage, on-chain DAO (votes, veto, timelock), auctions dashboard
   
 - 💰 **DeFi Development** — Liquidity pools, delta-neutral strategies, protocol integrations  
