@@ -77,11 +77,10 @@ I don't have all the answers, but I'm figuring it out one commit at a time.
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@thomascosialls-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thomascosialls)
-[![LinkedIn](https://img.shields.io/badge/-Thomas_Cosialls-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomascosialls)
+[![Twitter](https://img.shields.io/badge/-@thomascosialls-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/tomkosialki)
+[![LinkedIn](https://img.shields.io/badge/-Thomas_Cosialls-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-cosialls/)
 [![Website](https://img.shields.io/badge/-cosialls.fr-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.cosialls.fr)
 [![Blog](https://img.shields.io/badge/-Etherwave_Labs-8B5CF6?style=flat-square&logo=hashnode&logoColor=white)](https://www.etherwavelabs.com/blog)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thomas.cosialls@gmail.com)
 
 <details>
 <summary>A few things about me</summary>
