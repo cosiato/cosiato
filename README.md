@@ -17,7 +17,7 @@
 ## Current Projects
 
 - 🥱 **ZeroLag** (baking) — Sync your sleep to your flight for zero jet lag
-- 🏛️ **[Fortuna](https://givemefortuna.com)** — Offline-first wealth management app. Your finances, your device, no cloud 
+- 🏛️ **[Fortuna](https://givemefortuna.com)** — Offline-first wealth management app for MacOS and Windows
 - 🕵️‍♂️ **[Proof2work](https://www.proof2work.com/)** - Find all smart contracts deployed by a given public address
 - ⚗️ **[DeFi R&D](https://www.etherwavelabs.com/)** — Constantly working on blockchain topics for clients: UniswapV4 hooks, delta-neutral strategies, Real World Assets (RWA) tokenization
 
@@ -30,7 +30,7 @@
 - 🚪 **[Knocker](https://www.producthunt.com/products/knocker)** - Find small businesses that need a website - $50 MRR
 
 #### Web3 Projects
-- 📆 **[Kleek](https://github.com/kleek-events/kleek-app)** - dApp on EVMs to reduce no shows at events. 
+- 📆 **[Kleek](https://github.com/kleek-events/kleek-app)** - dApp on EVMs to reduce no shows at events.  
   → Won 2nd place at WalletConnect Hackathon in the Coinbase integration track
 
 - 🍄 **[The Smurf's Society](https://thesmurfssociety.com/)** — Built the web3 gaming app & NFT minting experience  
