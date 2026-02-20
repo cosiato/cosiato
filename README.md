@@ -17,19 +17,22 @@
 ## Current Projects
 
 - 🥱 **ZeroLag** (baking) — Sync your sleep to your flight for zero jet lag
-- 🏛️ **Fortuna** (baking) — Offline-first wealth management app. Your finances, your device, no cloud 
+- 🏛️ **[Fortuna](https://givemefortuna.com) — Offline-first wealth management app. Your finances, your device, no cloud 
 - 🕵️‍♂️ **[Proof2work](https://www.proof2work.com/)** - Find all smart contracts deployed by a given public address
 - ⚗️ **[DeFi R&D](https://www.etherwavelabs.com/)** — Constantly working on blockchain topics for clients: UniswapV4 hooks, delta-neutral strategies, Real World Assets (RWA) tokenization
 
 ### Things I've Built
 
-#### SaaS Products (Bootstrapped)
+#### SaaS Products
 
-- 🏠 **[Runbnb](https://www.youtube.com/watch?v=ydeQQDIyzZM)** - Property management system for short-term rentals
-- 🏡 **[Myror](https://www.youtube.com/watch?v=wMy5wW_huu8)** - Generate direct booking sites from an Airbnb link
-- 🚪 **[Knocker](https://www.producthunt.com/products/knocker)** - Find small businesses that need a website
+- 🏠 **[Runbnb](https://www.youtube.com/watch?v=ydeQQDIyzZM)** - Property management system for short-term rentals - $2k MRR
+- 🏡 **[Myror](https://www.youtube.com/watch?v=wMy5wW_huu8)** - Generate direct booking sites from an Airbnb link - $100 MRR
+- 🚪 **[Knocker](https://www.producthunt.com/products/knocker)** - Find small businesses that need a website - $50 MRR
 
-#### Web3 Projects (Client Work)
+#### Web3 Projects
+- 📆 **[Kleek](https://github.com/kleek-events/kleek-app)** - dApp on EVMs to reduce no shows at events. 
+  → Won 2nd place at WalletConnect Hackathon in the Coinbase integration track
+
 - 🍄 **[The Smurf's Society](https://thesmurfssociety.com/)** — Built the web3 gaming app & NFT minting experience  
   → 80k wallets connected · 3M+ Polygon transactions
   
@@ -39,7 +42,7 @@
 - 🏦 **[Ethereum Credit Guild](https://credit-guild.gitbook.io/introduction/)** — Built the frontend for a DeFi lending/borrowing protocol with 2M TVL  
   → ERC20 leverage, on-chain DAO (votes, veto, timelock), auctions dashboard
   
-- 💰 **DeFi Development** — Liquidity pools, delta-neutral strategies, protocol integrations  
+- 💰 **DeFi Development** — Freelance work. Liquidity pools, delta-neutral strategies, protocol integrations  
   → Shipped on EVMs & Solana
 
 ## Latest Blog Posts
