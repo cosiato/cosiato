@@ -17,7 +17,7 @@
 ## Current Projects
 
 - 🥱 **ZeroLag** (baking) — Sync your sleep to your flight for zero jet lag
-- 🏛️ **[Fortuna](https://givemefortuna.com) — Offline-first wealth management app. Your finances, your device, no cloud 
+- 🏛️ **[Fortuna](https://givemefortuna.com)** — Offline-first wealth management app. Your finances, your device, no cloud 
 - 🕵️‍♂️ **[Proof2work](https://www.proof2work.com/)** - Find all smart contracts deployed by a given public address
 - ⚗️ **[DeFi R&D](https://www.etherwavelabs.com/)** — Constantly working on blockchain topics for clients: UniswapV4 hooks, delta-neutral strategies, Real World Assets (RWA) tokenization
 
