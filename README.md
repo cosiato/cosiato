@@ -29,7 +29,7 @@
 - 🏡 **[Myror](https://www.youtube.com/watch?v=wMy5wW_huu8)** - Generate direct booking sites from an Airbnb link - $100 MRR
 - 🚪 **[Knocker](https://www.producthunt.com/products/knocker)** - Find small businesses that need a website - $50 MRR
 
-#### Web3 Projects
+#### Web3 / Blockchain Projects
 - 📆 **[Kleek](https://github.com/kleek-events/kleek-app)** - dApp on EVMs to reduce no shows at events.  
   → Won 2nd place at WalletConnect Hackathon in the Coinbase integration track
 
