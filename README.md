@@ -42,7 +42,7 @@
 - 🏦 **[Ethereum Credit Guild](https://credit-guild.gitbook.io/introduction/)** — Built the frontend for a DeFi lending/borrowing protocol with 2M TVL  
   → ERC20 leverage, on-chain DAO (votes, veto, timelock), auctions dashboard
   
-- 💰 **DeFi Development** — Freelance work. Liquidity pools, delta-neutral strategies, protocol integrations  
+- 💰 **Other DeFi Projects** — Liquidity pools, delta-neutral strategies, protocol integrations  
   → Shipped on EVMs & Solana
 
 ## Latest Blog Posts
