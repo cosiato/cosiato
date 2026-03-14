@@ -1,6 +1,6 @@
 # Hi, I'm Thomas 👋
 
-📍 **Anywhere with WiFi** | 🛠️ **Builder** | 🌐 **Web3 Engineer**
+📍 **Anywhere with WiFi** | 🛠️ **Builder** | 🌐 **Full-stack and Blokchain Dev**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
