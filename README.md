@@ -23,13 +23,13 @@
 
 ### Things I've Built
 
-#### SaaS Products
+#### Past SaaS Products
 
 - 🏠 **[Runbnb](https://www.youtube.com/watch?v=ydeQQDIyzZM)** - Property management system for short-term rentals - $2k MRR
-- 🏡 **[Myror](https://www.youtube.com/watch?v=wMy5wW_huu8)** - Generate direct booking sites from an Airbnb link - $100 MRR
-- 🚪 **[Knocker](https://www.producthunt.com/products/knocker)** - Find small businesses that need a website - $50 MRR
+- 🏡 **[Myror](https://www.youtube.com/watch?v=wMy5wW_huu8)** - Generate direct booking sites from an Airbnb link - $200 MRR
+- 🚪 **[Knocker](https://www.producthunt.com/products/knocker)** - Find small businesses that need a website - $200 MRR
 
-#### Web3 / Blockchain Projects
+#### Freelancing in Web3 / Blockchain
 - 📆 **[Kleek](https://github.com/kleek-events/kleek-app)** - dApp on EVMs to reduce no shows at events.  
   → Won 2nd place at WalletConnect Hackathon in the Coinbase integration track
 
