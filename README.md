@@ -12,7 +12,7 @@
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Claude](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> 10+ years building software. Can't stop vibing with Claude Code. On a mission to build a million users consumer dApp.
+> 10+ years building software, enhanced with AI Agents. On a mission to build a million users consumer dApp.
 
 ## Current Projects
 
@@ -48,6 +48,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ship Your Tauri v2 App Like a Pro](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
 - [The Guide for Collecting Fees and Rewards from Orca Whirlpool Positions](https://www.etherwavelabs.com/blog/the-guide-for-collecting-fees-and-rewards-from-orca-whirlpool-positions)
 - [Central Limit Order Books (CLOBs) vs AMMs: A Comprehensive Guide for DeFi Trading](https://www.etherwavelabs.com/blog/central-limit-order-books-clobs-vs-amms-a-comprehensive-guide-for-defi-trading)
 - [Building Your Custom AI Agent with ElizaOS: From Setup to Deployment](https://www.etherwavelabs.com/blog/building-your-custom-ai-agent-with-elizaos-from-setup-to-deployment)
