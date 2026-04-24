@@ -15,7 +15,7 @@
 > 10+ years building software, enhanced with AI Agents. On a mission to build a million users consumer dApp.
 
 ## Current Projects
-- 🗺️ **Elsewhere** (baking) - A quiet map of where your people will be
+- 🗺️ **Croisée** (baking) - A quiet map of where your people will be
 - 🥱 **ZeroLag** (baking) — Sync your sleep to your flight for zero jet lag
 - 🏛️ **[Fortuna](https://givemefortuna.com)** — Offline-first wealth management app for MacOS and Windows
 - 🕵️‍♂️ **[Proof2work](https://www.proof2work.com/)** - Find all smart contracts deployed by a given public address
