@@ -28,6 +28,7 @@
 - 🏠 **[Runbnb](https://www.youtube.com/watch?v=ydeQQDIyzZM)** - Property management system for short-term rentals - $2k MRR
 - 🏡 **[Myror](https://www.youtube.com/watch?v=wMy5wW_huu8)** - Generate direct booking sites from an Airbnb link - $200 MRR
 - 🚪 **[Knocker](https://www.producthunt.com/products/knocker)** - Find small businesses that need a website - $1k MRR
+- 👾 **[Vocavore](https://www.producthunt.com/products/vocavore)** - Learn your own vocabulary lists with Quiz games
 
 #### Freelancing in Web3 / Blockchain
 - 📆 **[Kleek](https://github.com/kleek-events/kleek-app)** - dApp on EVMs to reduce no shows at events.  
