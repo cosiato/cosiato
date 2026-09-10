@@ -15,10 +15,9 @@
 > 10+ years building software, enhanced with AI Agents. On a mission to build a million users consumer dApp.
 
 ## Current Projects
+- 💹​ **[Tuo](https://tuo.app)** - Crypto-native yield. Hedged by design.
 - 🗺️ **[Croisée](https://croisee.app)** - A mobile app to help you catch your favorite people more often
-- 🥱 **ZeroLag** (baking) — Sync your sleep to your flight for zero jet lag
 - 🏛️ **[Fortuna](https://givemefortuna.com)** — Offline-first wealth management app for MacOS and Windows
-- 🕵️‍♂️ **[Proof2work](https://www.proof2work.com/)** - Find all smart contracts deployed by a given public address
 - ⚗️ **[DeFi R&D](https://www.etherwavelabs.com/)** — Constantly working on blockchain topics for clients: UniswapV4 hooks, delta-neutral strategies, Real World Assets (RWA) tokenization
 
 ### Things I've Built
