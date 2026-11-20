@@ -45,41 +45,6 @@
 - 💰 **Other DeFi Projects** — Liquidity pools, delta-neutral strategies, protocol integrations  
   → Shipped on EVMs & Solana
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Ship Your Tauri v2 App Like a Pro](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
-- [The Guide for Collecting Fees and Rewards from Orca Whirlpool Positions](https://www.etherwavelabs.com/blog/the-guide-for-collecting-fees-and-rewards-from-orca-whirlpool-positions)
-- [Central Limit Order Books (CLOBs) vs AMMs: A Comprehensive Guide for DeFi Trading](https://www.etherwavelabs.com/blog/central-limit-order-books-clobs-vs-amms-a-comprehensive-guide-for-defi-trading)
-- [Building Your Custom AI Agent with ElizaOS: From Setup to Deployment](https://www.etherwavelabs.com/blog/building-your-custom-ai-agent-with-elizaos-from-setup-to-deployment)
-- [The Rise of AI Agents: Transforming Business Operations Through Intelligent Automation](https://www.etherwavelabs.com/blog/the-rise-of-ai-agents-transforming-business-operations-through-intelligent-automation)
-- [Building SpyClub: A Complete Guide to Modern Telegram Mini App Development](https://www.etherwavelabs.com/blog/building-spyclub-a-complete-guide-to-modern-telegram-mini-app-development)
-<!-- BLOG-POST-LIST:END -->
-
-## Philosophy
-
-```
-Ship > Perfect
-Learn > Know
-Build > Talk
-```
-
-I believe in:
-- **Rapid prototyping** - let's build amazing apps in days
-- **Building in public** — sharing wins and failures
-- **Small teams, big output** — or solo if needed
-- **Web3 for everyone** — not just crypto natives
-
-## What I am doing
-
-- Shipping B2C products at speed with AI superpowers
-- Documenting my journey and learnings
-- Building the dApp that brings web3 to the mainstream
-
-I don't have all the answers, but I'm figuring it out one commit at a time.
-
----
-
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@tomkozial-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/tomkosial)
